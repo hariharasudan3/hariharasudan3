@@ -9,7 +9,8 @@
 
 <h2>I code with </h2>
 <!-- Programming Languages -->
-<h4 align="left">Programming Languages:</h4>
+<!-- Programming Languages & Frontend Development -->
+<h4 align="left">1. Programming Languages & Frontend Development:</h4>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -23,11 +24,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
-</p>
-
-<!-- Frontend Development -->
-<h4 align="left">Frontend Development:</h4>
-<p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
@@ -36,24 +32,19 @@
     </a>
 </p>
 
-<!-- Database -->
-<h4 align="left">Database:</h4>
+<!-- Database & Framework -->
+<h4 align="left">2. Database & Framework:</h4>
 <p align="left"> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-</p>
-
-<!-- Framework -->
-<h4 align="left">Framework:</h4>
-<p align="left"> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     </a>
 </p>
 
 <!-- AI/ML -->
-<h4 align="left">AI/ML:</h4>
+<h4 align="left">3. AI/ML:</h4>
 <p align="left"> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -62,15 +53,6 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
 </p>
-
-<!-- Other - GitHub -->
-<h4 align="left">Other - GitHub:</h4>
-<p align="left"> 
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-    </a>
-</p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharasudan3&show_icons=true&locale=en&layout=compact" alt="hariharasudan3" /></p>
 <h3 align="left">Connect with me:</h3>
