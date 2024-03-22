@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <h2>About me</h2> 
 - 📚 I’m currently learning Artificial Intelligence and Machine Learning **n**
-- 🎯Goal: ****
+- 🎯Goal: **
 - ⚡ Fun fact **Catalyst**
 
 <h3 align="left">Connect with me:</h3>
