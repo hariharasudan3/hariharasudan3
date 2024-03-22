@@ -2,12 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 <h2>About me</h2> 
 - 📚 I’m currently learning Artificial Intelligence and Machine Learning **n**
-
-- 🎯Goal: **n**
-
-- 📫 How to reach me **ashariharasudan2003@gmail.com**
-
-- ⚡ Fun fact **n**
+- 🎯Goal: ****
+- ⚡ Fun fact **Catalyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
