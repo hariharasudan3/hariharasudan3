@@ -55,8 +55,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharasudan3&show_icons=true&locale=en&layout=compact" alt="hariharasudan3" /></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2>Other<h2>
 <a href="https://dev.to/https://dev.to/hariharasudan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/hariharasudan3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hari-hara-sudan-a-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-hara-sudan-a-s/" height="30" width="40" /></a>
 </p>
