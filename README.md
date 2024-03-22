@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari Hara Sudan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<h2>About me</h2>
-<hr>
-
-
+<h2>About me</h2><hr>
 
 - 📚 I’m currently learning Artificial Intelligence and Machine Learning **n**
 
