@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Hara Sudan</h1>
 <h2> About me </h2>
 
-- 📚I’m currently learning Artificial Intelligence and Machine Learning **n**
+- 📚I’m currently learning Artificial Intelligence and Machine Learning 
 
 - 🎯Goal: **A passionate frontend developer and wanna to be AI/ML Engineer**
   
