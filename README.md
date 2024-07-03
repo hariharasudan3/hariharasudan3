@@ -3,9 +3,9 @@
 
 - 📚I’m currently learning Artificial Intelligence and Machine Learning 
 
-- 🎯Goal: **A passionate frontend developer and wanna to be AI/ML Engineer**
+- 🎯Goal: A passionate frontend developer and wanna to be AI/ML Engineer
   
-- 🎲Fun fact **Catalyst**
+- 🎲Fun fact Catalyst
 
 <h2>I code with </h2>
 <!-- Programming Languages -->
