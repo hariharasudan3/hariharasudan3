@@ -1,7 +1,8 @@
-# Hi 👋, I'm Hari Hara Sudan
+<h1 align="center">Hi 👋, I'm Hari Hara Sudan</h1>
 
-### About Me:
-- 🎓 Recently completed **BSc in Artificial Intelligence and Machine Learning**.
+<h2> About me </h2>
+
+- 📚I’m currently learning Artificial Intelligence and Machine Learning 
 - 🎯Goal: A passionate frontend developer and wanna to be AI/ML Engineer
 - 🎲Fun fact: Catalyst
 
@@ -53,27 +54,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharasudan3&show_icons=true&locale=en&layout=compact" alt="hariharasudan3" /></p>
-
-
-### I Code With:
-#### Programming Languages:
-- [Python](https://www.python.org/), [C](https://www.cprogramming.com/)
-
-#### Frontend Development:
-- [HTML5](https://www.w3.org/html/), [CSS3](https://www.w3schools.com/css/)
-
-#### AI/ML Tools:
-- [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/)
-
-#### Database & Frameworks:
-- [Flask](https://flask.palletsprojects.com/), [MySQL](https://www.mysql.com/)
-
-### Projects:
-- **[AI Chatbot](https://github.com/username/project1)**: A chatbot using NLP techniques to assist users. Built with Python, TensorFlow, and Flask.
-- **[Stock Price Prediction](https://github.com/username/project2)**: Machine learning model to predict stock prices using historical data. Built with Python, Scikit-Learn, and Pandas.
-
-### Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/username/)
-- [Portfolio](https://your-portfolio.com)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
