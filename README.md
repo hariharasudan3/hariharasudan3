@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-- 📚I’m currently learning Artificial Intelligence and Machine Learning 
+- 🎓 I’ve recently completed my **BSc in Artificial Intelligence and Machine Learning**.
 - 🎯Goal: A passionate frontend developer and wanna to be AI/ML Engineer
 - 🎲Fun fact: Catalyst
 
