@@ -68,6 +68,7 @@ I am eager to contribute to real-world applications of AI, leveraging my experti
   <tr align="center">
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="55" width="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="55" width="55" /></td>
+    <!-- Green Selenium Logo -->
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Selenium_Logo.png" title="Selenium" alt="Selenium" height="55" width="55" /></td>
   </tr>
 </table>
@@ -76,7 +77,6 @@ I am eager to contribute to real-world applications of AI, leveraging my experti
 <table style="width: 100%; table-layout: fixed;">
   <tr align="center">
     <th>TensorFlow</th>
-    <th>Keras</th>
     <th>PyTorch</th>
     <th>NumPy</th>
     <th>Pandas</th>
@@ -84,7 +84,6 @@ I am eager to contribute to real-world applications of AI, leveraging my experti
   </tr>
   <tr align="center">
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" height="55" width="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" height="55" width="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" height="55" width="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height="55" width="55" /></td>
