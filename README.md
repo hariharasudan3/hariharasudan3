@@ -21,15 +21,6 @@ I'm a passionate **AI enthusiast** and **web developer** from **Coimbatore, Tami
 
 ---
 
-## 🏆 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharasudan&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharasudan&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 How to Reach Me
 
 - 📧 Email: [hariharasudan.email@example.com](mailto:hariharasudan.email@example.com)
