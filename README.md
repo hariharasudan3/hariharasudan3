@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ **AI & Machine Learning enthusiast**<br>📚 **Learning Full-Stack Development**<br>🎯 **Aiming to be an AI Engineer & Web Developer**<br>🎲 **Open-source contributor & problem solver**</p>
+<p align="left">✨ AI & Machine Learning enthusiast**<br>📚 **Learning Full-Stack Development**<br>🎯 **Aiming to be an AI Engineer & Web Developer**<br>🎲 **Open-source contributor & problem solver**</p>
 
 ###
 
