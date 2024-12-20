@@ -4,10 +4,10 @@
 
 ## 🌱 About Me
 
-✨ **AI & Machine Learning enthusiast**  
-📚 **Learning Full-Stack Development**  
-🎯 **Aiming to be an AI Engineer & Web Developer**  
-🎲 **Open-source contributor & problem solver**
+✨ AI & Machine Learning enthusiast  
+📚 Learning Full-Stack Development  
+🎯 Aiming to be an AI Engineer & Web Developer  
+🎲 Open-source contributor & problem solver
 
 ###
 
