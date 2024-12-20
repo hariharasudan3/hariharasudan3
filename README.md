@@ -1,13 +1,12 @@
 # Hello, I'm Hari Hara Sudan 👨🏻‍💻
+
 ## 🌱 About Me
 
-I am a passionate **Artificial Intelligence and Machine Learning** graduate from **Coimbatore, Tamil Nadu, India**. With a strong foundation in AI and software development, I am focused on building innovative solutions and continuously expanding my skillset in **AI/ML** and **Full-Stack Development**.
-
-I am eager to contribute to real-world applications of AI, leveraging my expertise in both **machine learning algorithms** and **web technologies** to solve complex problems and create impactful projects.
+✨ **AI & Machine Learning enthusiast** | 📚 **Learning Full-Stack Development** | 🎯 **Aiming to be an AI Engineer & Web Developer** | 🎲 **Open-source contributor & problem solver**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🖥️ Technologies & Tools
 
 ### Languages:
 <table style="width: 100%; table-layout: fixed;">
