@@ -1,13 +1,15 @@
-<h1 align="left">Hello, I'm Hari Hara Sudan 👨🏻‍💻</h1>
+# Hello, I'm Hari Hara Sudan 👨🏻‍💻
 
 ###
 
-<h2 align="left">🌱 About Me</h2>
+## 🌱 About Me
+
+✨ AI & Machine Learning enthusiast  
+📚 Learning Full-Stack Development  
+🎯 Aiming to be an AI Engineer & Web Developer  
+🎲 Open-source contributor & problem solver
 
 ###
-
-<p align="left">✨ AI & Machine Learning enthusiast<br>📚 Learning Full-Stack Development<br>🎯 Aiming to be an AI Engineer & Web Developer<br>🎲 Open-source contributor & problem solver</p>
-
 
 ### Languages:
 <table style="width: 100%; table-layout: fixed;">
@@ -29,6 +31,8 @@
   </tr>
 </table>
 
+###
+
 ### Frameworks:
 <table style="width: 100%; table-layout: fixed;">
   <tr align="center">
@@ -41,6 +45,8 @@
   </tr>
 </table>
 
+###
+
 ### Databases:
 <table style="width: 100%; table-layout: fixed;">
   <tr align="center">
@@ -52,6 +58,8 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" height="55" width="55" /></td>
   </tr>
 </table>
+
+###
 
 ### Tools:
 <table style="width: 100%; table-layout: fixed;">
@@ -67,13 +75,13 @@
   </tr>
 </table>
 
----
+###
 
 ## 📫 How to Reach Me
 
 - 📧 Email: [hariharasudan.dev@gmail.com](mailto:hariharasudan.dev@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/hari-hara-sudan](https://www.linkedin.com/in/hari-hara-sudan/)
 
----
+###
 
 ### Thanks for visiting my profile! ⭐
