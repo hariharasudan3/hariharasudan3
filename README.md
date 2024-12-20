@@ -1,12 +1,16 @@
-# Hello, I'm Hari Hara Sudan 👨🏻‍💻
+<h1 align="left">Hello, I'm Hari Hara Sudan 👨🏻‍💻</h1>
 
-## 🌱 About Me
+###
 
-✨ **AI & Machine Learning enthusiast** | 📚 **Learning Full-Stack Development** | 🎯 **Aiming to be an AI Engineer & Web Developer** | 🎲 **Open-source contributor & problem solver**
+<h2 align="left">About Me</h2>
 
----
+###
 
-## 🖥️ Technologies & Tools
+<p align="left">✨ **AI & Machine Learning enthusiast** | 📚 **Learning Full-Stack Development** | 🎯 **Aiming to be an AI Engineer & Web Developer** | 🎲 **Open-source contributor & problem solver**</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ### Languages:
 <table style="width: 100%; table-layout: fixed;">
