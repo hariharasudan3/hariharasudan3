@@ -53,7 +53,7 @@ I am eager to contribute to real-world applications of AI, leveraging my experti
     <th>Firebase</th>
   </tr>
   <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" height="55" width="55" /></td>
   </tr>
 </table>
@@ -68,26 +68,7 @@ I am eager to contribute to real-world applications of AI, leveraging my experti
   <tr align="center">
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="55" width="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="55" width="55" /></td>
-    <!-- Green Selenium Logo -->
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Selenium_Logo.png" title="Selenium" alt="Selenium" height="55" width="55" /></td>
-  </tr>
-</table>
-
-### Machine Learning / AI Tools:
-<table style="width: 100%; table-layout: fixed;">
-  <tr align="center">
-    <th>TensorFlow</th>
-    <th>PyTorch</th>
-    <th>NumPy</th>
-    <th>Pandas</th>
-    <th>Matplotlib</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" height="55" width="55" /></td>
   </tr>
 </table>
 
