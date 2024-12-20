@@ -14,28 +14,66 @@ I am eager to contribute to real-world applications of AI, leveraging my experti
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: 
-  - ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
-  - ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
-  - ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java
-  - ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) C++
-  - ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg) Dart
+### Languages:
+<div style="display: flex; gap: 15px;">
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  </div>
+</div>
 
-- **Frameworks**: 
-  - ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg) Flask
-  - ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React
-  - ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js
-  - ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) Flutter
+### Frameworks:
+<div style="display: flex; gap: 15px;">
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  </div>
+</div>
 
-- **Databases**:
-  - ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL
-  - ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL
-  - ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg) Firebase
+### Databases:
+<div style="display: flex; gap: 15px;">
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  </div>
+</div>
 
-- **Tools**: 
-  - ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git
-  - ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub
-  - ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker
+### Tools:
+<div style="display: flex; gap: 15px;">
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  </div>
+  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  </div>
+</div>
 
 ---
 
