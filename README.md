@@ -13,8 +13,6 @@
 
 ### 💻 Tech Stack
 
-###
-
 <table style="width: 100%; table-layout: fixed;">
   <tr align="center">
     <th>Python</th>
@@ -31,6 +29,27 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="40" width="40" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="40" width="40" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" width="40" /></td>
+  </tr>
+</table>
+
+###
+
+### 🤖 AI/ML Libraries
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr align="center">
+    <th>TensorFlow</th>
+    <th>PyTorch</th>
+    <th>NumPy</th>
+    <th>Pandas</th>
+    <th>Matplotlib</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" height="40" width="40" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" height="40" width="40" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" height="40" width="40" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height="40" width="40" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" height="40" width="40" /></td>
   </tr>
 </table>
 
@@ -71,11 +90,11 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr align="center">
     <th>Git</th>
-    <th>GitHub</th>
+    <th>Selenium</th>
   </tr>
   <tr align="center">
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="40" width="40" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="40" width="40" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" height="40" width="40" /></td>
   </tr>
 </table>
 
