@@ -1,56 +1,40 @@
-<h1 align="center">Hi 👋, I'm Hari Hara Sudan</h1>
+# Hello, I'm Hari Hara Sudan 👨‍💻
 
-<h2> About me </h2>
+I'm a passionate **AI enthusiast** and **web developer** from **Coimbatore, Tamil Nadu, India**. I love learning new technologies, building projects, and contributing to the open-source community.
 
-- 🎓 I’ve recently completed my **BSc in Artificial Intelligence and Machine Learning**.
-- 🎯Goal: A passionate frontend developer and wanna to be AI/ML Engineer
-- 🎲Fun fact: Catalyst
+---
 
-<h2>I code with </h2>
+## 🌱 About Me
 
-<!-- Programming Languages & Frontend Development -->
-<h4 align="left">1. Programming Languages & Frontend Development:</h4>
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-</p>
+- 🎯 **Currently learning**: Artificial Intelligence & Machine Learning
+- 🚀 **Goals**: Aspiring to be an **AI Engineer** and **Full-Stack Developer**
+- 📝 **Fun fact**: I enjoy reading tech books and writing blogs.
 
-<!-- Database & Framework -->
-<h4 align="left">2. Database & Framework:</h4>
-<p align="left"> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-    </a>
-</p>
+---
 
-<!-- AI/ML -->
-<h4 align="left">3. AI/ML:</h4>
-<p align="left"> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-</p>
+## 🛠️ Technologies & Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharasudan3&show_icons=true&locale=en&layout=compact" alt="hariharasudan3" /></p>
+- **Languages**: JavaScript, Python, Java, C++, Dart
+- **Frameworks**: React, Node.js, Flask, Flutter
+- **Databases**: MySQL, PostgreSQL, Firebase
+- **Tools**: Git, GitHub, Docker
+
+---
+
+## 🏆 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharasudan&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharasudan&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [hariharasudan.email@example.com](mailto:hariharasudan.email@example.com)
+- 🌐 LinkedIn: [linkedin.com/in/hariharasudan](https://www.linkedin.com/in/hariharasudan)
+
+---
+
+### Thanks for visiting my profile! ⭐
