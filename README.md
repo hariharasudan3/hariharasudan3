@@ -21,14 +21,16 @@ I am eager to contribute to real-world applications of AI, leveraging my experti
     <th>JavaScript</th>
     <th>Java</th>
     <th>C++</th>
-    <th>Dart</th>
+    <th>HTML5</th>
+    <th>CSS3</th>
   </tr>
   <tr align="center">
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python Sibi Siddharth S" height="55" width="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Sibi Siddharth S" height="55" width="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java Sibi Siddharth S" height="55" width="55" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ Sibi Siddharth S" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5 Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3 Sibi Siddharth S" height="55" width="55" /></td>
   </tr>
 </table>
 
