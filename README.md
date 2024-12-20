@@ -2,15 +2,12 @@
 
 ###
 
-<p align="left">Myself Hari Hara Sudan from Coimbatore, Tamil Nadu, INDIA.</p>
-
-###
-
 <h2 align="left">🌱 About Me</h2>
 
 ###
 
 <p align="left">✨ AI & Machine Learning enthusiast<br>📚 Learning Full-Stack Development<br>🎯 Aiming to be an AI Engineer & Web Developer<br>🎲 Open-source contributor & problem solver</p>
+
 
 ### Languages:
 <table style="width: 100%; table-layout: fixed;">
