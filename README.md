@@ -15,65 +15,66 @@ I am eager to contribute to real-world applications of AI, leveraging my experti
 ## 🛠️ Technologies & Tools
 
 ### Languages:
-<div style="display: flex; gap: 15px;">
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  </div>
-</div>
+<table style="width: 100%; table-layout: fixed;">
+  <tr align="center">
+    <th>Python</th>
+    <th>JavaScript</th>
+    <th>Java</th>
+    <th>C++</th>
+    <th>Dart</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart Sibi Siddharth S" height="55" width="55" /></td>
+  </tr>
+</table>
 
 ### Frameworks:
-<div style="display: flex; gap: 15px;">
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  </div>
-</div>
+<table style="width: 100%; table-layout: fixed;">
+  <tr align="center">
+    <th>Flask</th>
+    <th>ReactJS</th>
+    <th>Node.js</th>
+    <th>Flutter</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter Sibi Siddharth S" height="55" width="55" /></td>
+  </tr>
+</table>
 
 ### Databases:
-<div style="display: flex; gap: 15px;">
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  </div>
-</div>
+<table style="width: 100%; table-layout: fixed;">
+  <tr align="center">
+    <th>MySQL</th>
+    <th>PostgreSQL</th>
+    <th>Firebase</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL Sibi Siddharth S" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase Sibi Siddharth S" height="55" width="55" /></td>
+  </tr>
+</table>
 
 ### Tools:
-<div style="display: flex; gap: 15px;">
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  </div>
-  <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  </div>
-</div>
+<table style="width: 100%; table-layout: fixed;">
+  <tr align="center">
+    <th>Git</th>
+    <th>GitHub</th>
+    <th>Docker</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub Sibi Siddharth S" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker Sibi Siddharth S" height="55" width="55" /></td>
+  </tr>
+</table>
 
 ---
 
