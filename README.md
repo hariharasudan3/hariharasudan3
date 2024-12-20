@@ -14,6 +14,9 @@
 
 ### 💻 Tech Stack
 
+
+###
+
 <table style="width: 100%; table-layout: fixed;">
   <tr align="center">
     <th>Python</th>
@@ -77,8 +80,6 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="50" width="50" /></td>
   </tr>
 </table>
-
-###
 
 ###
 
